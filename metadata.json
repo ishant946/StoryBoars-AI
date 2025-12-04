@@ -1,0 +1,5 @@
+{
+  "name": "StoryBoard AI",
+  "description": "Convert text scripts into scene-based AI generated storyboards using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
